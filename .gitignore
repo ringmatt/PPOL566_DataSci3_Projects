@@ -1,0 +1,10 @@
+# Written documents
+*.docx
+*.doc
+
+# Data
+*.csv
+*.dta
+
+# STATA files
+*.do
