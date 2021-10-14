@@ -2,6 +2,16 @@
 *.docx
 *.doc
 
+# Presentations
+*.pptx
+
+# Visualizations
+*.jpg
+*.png
+*.gif
+*.jpeg
+
+
 # Data
 *.csv
 *.dta
